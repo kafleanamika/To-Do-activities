@@ -1,4 +1,4 @@
 
 # To-Do-activities
 
-![](app/src/main/res/drawable/todo activity.gif)
+![](app/src/main/res/drawable/todoactivity.gif)
