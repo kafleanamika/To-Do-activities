@@ -1,2 +1,3 @@
 ![](app/src/main/res/drawable/todoactivity.gif)
-!(todo.png)
+
+![Mobile Application Screenshot](todo.png)
